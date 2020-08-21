@@ -1,6 +1,4 @@
-###################
-Simed - CodeIgniter 3
-###################
+**Simed - CodeIgniter 3
 
 [Framework CodeIgniter 3](https://github.com/bcit-ci/CodeIgniter)
 [Template AdminLte](https://adminlte.io/)
